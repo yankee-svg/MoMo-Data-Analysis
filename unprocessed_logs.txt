@@ -1,0 +1,41 @@
+TIMESTAMP: 2024-06-11 06:26:18.824000 | MESSAGE: Yello!Umaze kugura 2000Rwf(1GB)/30days igura 2,000 RWF
+TIMESTAMP: 2024-06-19 18:15:59.574000 | MESSAGE: Yello!Umaze kugura 2,000FRW(2GB) igura 2,000 RWF
+TIMESTAMP: 2024-06-28 18:00:51.961000 | MESSAGE: Yello!Umaze kugura 2,000FRW(2GB) igura 2,000 RWF
+TIMESTAMP: 2024-07-04 14:03:05.182000 | MESSAGE: Yello!Umaze kugura 500FRW(800MB) igura 500 RWF
+TIMESTAMP: 2024-07-11 09:26:00.225000 | MESSAGE: Yello!Umaze kugura 500FRW(800MB) igura 500 RWF
+TIMESTAMP: 2024-07-21 18:19:33.820000 | MESSAGE: Yello!Umaze kugura 200Rwf(50MB) igura 200 RWF
+TIMESTAMP: 2024-07-23 21:22:21.773000 | MESSAGE: Yello!Umaze kugura 500FRW(800MB) igura 500 RWF
+TIMESTAMP: 2024-07-26 00:10:44.405000 | MESSAGE: Yello!Umaze kugura 2000Rwf(1.5GB) igura 2,000 RWF
+TIMESTAMP: 2024-07-26 15:16:12.340000 | MESSAGE: *162*TxId:14977177408*S*Your payment of 673000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:16:04. Fee was 8000 RWF. Your new balance: 4950 RWF . Message: - Transaction has been processed successfully. *EN#
+TIMESTAMP: 2024-07-26 15:24:12.432000 | MESSAGE: *162*TxId:14977293553*S*Your payment of 45000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:24:04. Fee was 1200 RWF. Your new balance: 8750 RWF . Message: - Transaction has been processed successfully. *EN#
+TIMESTAMP: 2024-07-26 15:30:11.946000 | MESSAGE: *162*TxId:14977386817*S*Your payment of 50000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:30:04. Fee was 1200 RWF. Your new balance: 7550 RWF . Message: - Transaction has been processed successfully. *EN#
+TIMESTAMP: 2024-08-01 13:23:54.843000 | MESSAGE: Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
+TIMESTAMP: 2024-08-01 19:03:20.596000 | MESSAGE: Yello!Umaze kugura 500FRW(800MB) igura 500 RWF
+TIMESTAMP: 2024-08-03 16:42:20.291000 | MESSAGE: Yello!Umaze kugura 1000Rwf(1GB) igura 1,000 RWF
+TIMESTAMP: 2024-08-05 17:15:33.106000 | MESSAGE: Yello!Umaze kugura 200Rwf(50MB) igura 200 RWF
+TIMESTAMP: 2024-08-06 20:22:15.543000 | MESSAGE: Yello!Umaze kugura 1,000FRW(2200MB) igura 1,000 RWF
+TIMESTAMP: 2024-08-08 21:19:26.344000 | MESSAGE: Yello!Umaze kugura 1,000FRW(2200MB) igura 1,000 RWF
+TIMESTAMP: 2024-08-09 11:44:16.979000 | MESSAGE: *162*TxId:15183763430*S*Your payment of 2000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-08-09 11:44:02. Fee was 120 RWF. Your new balance: 1050 RWF . Message: - Transaction has been processed successfully. *EN#
+TIMESTAMP: 2024-08-10 18:10:19.170000 | MESSAGE: *162*TxId:15204526240*S*Your payment of 90000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-08-10 18:10:04. Fee was 2000 RWF. Your new balance: 9050 RWF . Message: - Transaction has been processed successfully. *EN#
+TIMESTAMP: 2024-08-24 10:23:48.516000 | MESSAGE: 1) 2024-08-23 DEPOSIT RWF 25000 Receiver: 250795963036 Sender:  Fee: RWF
+TIMESTAMP: 2024-08-29 09:30:42.751000 | MESSAGE: Yello!Umaze kugura 5,000FRW(7GB) igura 5,000 RWF
+TIMESTAMP: 2024-09-11 15:44:05.327000 | MESSAGE: Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
+TIMESTAMP: 2024-09-18 14:17:20.309000 | MESSAGE: Yello!Umaze kugura 5,000FRW(7GB) igura 5,000 RWF
+TIMESTAMP: 2024-09-21 15:49:09.905000 | MESSAGE: *143*R*Y'ello, the transaction with amount 14200 RWF for ESICIA LTD with message: 1734874172692585358074144 failed at 2024-09-21 15:49:01 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#
+TIMESTAMP: 2024-10-11 14:01:09.986000 | MESSAGE: *143*R*Y'ello, the transaction with amount 11600 RWF for ESICIA LTD with message: 1763055172864732058074359 failed at 2024-10-11 14:00:00 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#
+TIMESTAMP: 2024-10-13 09:37:55.742000 | MESSAGE: Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
+TIMESTAMP: 2024-10-23 09:59:07.886000 | MESSAGE: You have transferred 50000 RWF to Linda Green (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-23 09:59:01. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16400028923.
+TIMESTAMP: 2024-10-23 16:43:11.532000 | MESSAGE: You have transferred 50000 RWF to Robert Brown (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-23 16:43:03. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16406794518.
+TIMESTAMP: 2024-10-25 00:33:09.644000 | MESSAGE: You have transferred 20000 RWF to Jane Smith (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-25 00:33:00. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16433471329.
+TIMESTAMP: 2024-10-25 05:48:07.652000 | MESSAGE: You have transferred 20000 RWF to Samuel Carter (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-25 05:48:00. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16434717507.
+TIMESTAMP: 2024-10-26 21:52:12.568000 | MESSAGE: You have transferred 50000 RWF to Robert Brown (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-10-26 21:52:01. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16471170286.
+TIMESTAMP: 2024-10-29 13:18:42.605000 | MESSAGE: Your payment of 8000 RWF to Cynthia UMUGANWA (250790698110) has been completed at 2024-10-29 13:18:05. Message: . Your new balance: 36282 RWF. Fee was 0 RWF. The amount was subject to a discount of 0 RWF and coupons worth . Financial Transaction Id: 16519345888. External Transaction Id: -.
+TIMESTAMP: 2024-10-29 23:54:47.453000 | MESSAGE: Your payment of 8400 RWF to Dieudonne MUGIRANEZA (250789447277) has been completed at 2024-10-29 23:54:40. Message: . Your new balance: 16612 RWF. Fee was 0 RWF. The amount was subject to a discount of 0 RWF and coupons worth . Financial Transaction Id: 16530676798. External Transaction Id: -.
+TIMESTAMP: 2024-11-05 21:55:09.907000 | MESSAGE: You have transferred 10000 RWF to Jane Smith (250795963036) from your mobile money account 20077201001 imbank.bank at 2024-11-05 21:55:02. Your new balance:  . Message from sender: . Message to receiver: . Financial Transaction Id: 16664315282.
+TIMESTAMP: 2024-11-12 23:47:54.295000 | MESSAGE: *143*TxId:16803066185*S*Your payment of 5000 RWF to Bundles and Packs with token  has failed at 2024-11-12 23:47:47. Message: - -. *EN#
+TIMESTAMP: 2024-11-12 23:49:47.075000 | MESSAGE: *143*TxId:16803076383*S*Your payment of 5000 RWF to Bundles and Packs with token  has failed at 2024-11-12 23:49:39. Message: - -. *EN#
+TIMESTAMP: 2024-11-12 23:58:08.871000 | MESSAGE: *143*R*Y'ello, the transaction with amount 5000 RWF for Data Bundle MTN with message:  failed at 2024-11-12 23:58:00 .Please Contact MobileMoney HelpLine for Assistance.Thank you for using MTN MobileMoney.*EN#
+TIMESTAMP: 2024-11-13 14:45:31.319000 | MESSAGE: Yello!Umaze kugura 2000Frw=1000Mins+50SMS igura 2,000 RWF
+TIMESTAMP: 2024-12-13 16:30:14.722000 | MESSAGE: Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
+TIMESTAMP: 2025-01-02 14:03:56.928000 | MESSAGE: *162*TxId:17841214930*S*Your payment of 322726 RWF to WASAC with token 888931 has been completed at 2025-01-02 14:03:47. Fee was 300 RWF. Your new balance: 53322 RWF . Message: - -. *EN#
+TIMESTAMP: 2025-01-13 14:43:07.153000 | MESSAGE: Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF
