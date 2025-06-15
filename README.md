@@ -14,8 +14,7 @@
     ```
 
 2.  **Run the dependency resolution script.**
-    ```bash
-    python resolve_requirements.py
+    ```
     ```
     This script will automatically:
     - Create a Python virtual environment named `venv` to keep dependencies isolated.
