@@ -52,3 +52,10 @@ After the setup script finishes, you need to activate the environment it created
 4.  **View the Dashboard.**
     -   navigate to `http://127.0.0.1:5001`. in your browser
     -   The dashboard will open with all data visualized  for interpretation
+
+## Technologies used
+
+### For Frontend
+-HTML
+-CSS
+-Javascript
