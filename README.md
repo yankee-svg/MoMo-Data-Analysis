@@ -22,6 +22,7 @@ This application takes MTN MoMo SMS transactions data that are saved in the XML 
 
 2.  **Run the dependency resolution script.**
     ```
+    python resolve_requirements.py
     ```
     This script will automatically:
     - Create a Python virtual environment named `venv` to keep dependencies isolated.
