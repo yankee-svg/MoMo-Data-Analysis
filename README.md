@@ -1,3 +1,10 @@
+#  MTN MoMo SMS Data Processing System
+
+## Description
+
+This application takes MTN MoMo SMS transactions data that are saved in the XML file cleans it up, categorize them and organizes those data into a database. The application has a backend to handle the data, a database to store it and a simple frontend dashboard that shows the information clearly to the users.
+
+
 
 ## How to Run the Application
 
@@ -42,5 +49,5 @@ After the setup script finishes, you need to activate the environment it created
     The server will start, typically on `http://127.0.0.1:5001`.
 
 4.  **View the Dashboard.**
-    -   navigate to `http://127.0.0.1:5001`. in your broweser
+    -   navigate to `http://127.0.0.1:5001`. in your browser
     -   The dashboard will open with all data visualized  for interpretation
