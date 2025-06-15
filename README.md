@@ -56,6 +56,12 @@ After the setup script finishes, you need to activate the environment it created
 ## Technologies used
 
 ### For Frontend
--HTML
--CSS
--Javascript
+
+- HTML
+- CSS
+- Javascript
+
+### For Backend
+
+- Python
+- Flask web framework
