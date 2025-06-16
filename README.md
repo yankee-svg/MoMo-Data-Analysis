@@ -86,7 +86,10 @@ After the setup script finishes, you need to activate the environment it created
     ```
     The server will start, typically on `http://127.0.0.1:5001`.
 
-4.  **View the Dashboard.**
+4. **Demo Video**
+   ` https://youtu.be/knGSlWNyUKw?si=WVBOsrCuewnSQPvt`
+
+6.  **View the Dashboard.**
     -   navigate to `http://127.0.0.1:5001`. in your browser
     -   The dashboard will open with all data visualized  for interpretation
 
