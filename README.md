@@ -11,7 +11,24 @@ This application takes MTN MoMo SMS transactions data that are saved in the XML 
 ## dir structure
 
 
-<pre> ``` ├── data/ # Directory for raw or processed datasets ├── static/ # Static assets (CSS, JS) ├── templates/ # HTML templates for frontend ├── AUTHORS # Contributors to the project ├── README.md # Project documentation ├── app.py # Main Flask application ├── momo_transactions.db # SQLite database containing transaction data ├── process_data.py # Script to clean and process raw SMS data ├── requirements.txt # Python dependencies list ├── resolve_requirements.py # Script for resolving dependencies (if applicable) ├── unprocessed_logs.txt # Raw logs or SMS exports to be cleaned ``` </pre>
+MOMO Data-Analysis/
+
+│
+├── app.py                    # Main application with the backend Flask API
+├── process_data.py           # Process the XML files and create the database
+├── resolve_requirements.py   # Download the required environment to run the project
+│
+├── static/                   # Static files
+│   ├── css/
+│   │   └── styles.css
+│   │
+│   └── js/
+│       ├── charts.js         # Create charts
+│       └── script.js
+│
+└── templates/                # HTML templates
+    └── index.html            # The main HTML file
+
 ### For Frontend
 
 - HTML
