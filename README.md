@@ -7,6 +7,19 @@ This application takes MTN MoMo SMS transactions data that are saved in the XML 
 
 ## Technologies used
 
+### For Frontend
+
+- HTML
+- CSS
+- Javascript
+
+### For Backend
+
+- Python
+- Flask web framework
+- SQLite database
+
+
 
 ## dir structure
 
@@ -29,18 +42,6 @@ MOMO Data-Analysis/
 └── templates/                
     └── index.html            # The main HTML file
 ```
-### For Frontend
-
-- HTML
-- CSS
-- Javascript
-
-### For Backend
-
-- Python
-- Flask web framework
-- SQLite database
-
 
 ## How to Run the Application
 
