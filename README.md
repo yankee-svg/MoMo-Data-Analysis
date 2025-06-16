@@ -12,7 +12,7 @@ This application takes MTN MoMo SMS transactions data that are saved in the XML 
 
 
 MOMO Data-Analysis/
-
+```
 │
 ├── app.py                    # Main application with the backend Flask API
 ├── process_data.py           # Process the XML files and create the database
@@ -28,7 +28,7 @@ MOMO Data-Analysis/
 │
 └── templates/                # HTML templates
     └── index.html            # The main HTML file
-
+```
 ### For Frontend
 
 - HTML
