@@ -8,23 +8,19 @@ DB_FILE = "momo_transactions.db"
 def get_db_connection():
     """Establishes a connection to the database."""
     conn = sqlite3.connect(DB_FILE)
-    # The row_factory is not strictly necessary anymore but doesn't hurt.
     conn.row_factory = sqlite3.Row
     return conn
 
 def convert_row_to_dict(row):
     """
-    Manually converts a sqlite3.Row object to a dictionary.
-    This ensures all data types are JSON-friendly.
+    converts a sqlite3.Row object to a dictionary.
     """
     d = {}
     for key in row.keys():
         d[key] = row[key]
-    # Ensure timestamp is a string in ISO format for JavaScript
+        
     if 'timestamp' in d and d['timestamp']:
-        # The timestamp is already a string from the DB, but this standardizes it.
-        # If it were a datetime object, this would be essential.
-        pass # The value is already a string 'YYYY-MM-DD HH:MM:SS'
+        pass
     return d
 
 
@@ -87,7 +83,6 @@ def get_summary():
         GROUP BY type
     """).fetchall()
     
-    # Monthly summary (last 12 months)
     by_month_rows = cursor.execute("""
         SELECT 
             strftime('%Y-%m', timestamp) as month,
