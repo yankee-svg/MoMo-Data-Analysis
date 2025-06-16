@@ -16,17 +16,17 @@ MOMO Data-Analysis/
 │
 ├── app.py                    # Main application with the backend Flask API
 ├── process_data.py           # Process the XML files and create the database
-├── resolve_requirements.py   # Download the required environment to run the project
+├── resolve_requirements.py   # Download the required packages (panda & flask) to run the project
 │
-├── static/                   # Static files
+├── static/                   
 │   ├── css/
-│   │   └── styles.css
+│   │   └── styles.css        # css file
 │   │
 │   └── js/
 │       ├── charts.js         # Create charts
 │       └── script.js
 │
-└── templates/                # HTML templates
+└── templates/                
     └── index.html            # The main HTML file
 ```
 ### For Frontend
